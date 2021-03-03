@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 8f715d934cc8d0249b556f72919af42f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Merriweather
+  fontNames:
+  - Merriweather
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 091885a3ec4798d43886cf997c2aaf7b, type: 3}
+  - {fileID: 12800000, guid: 515e0088f9e72814abed60f67fb89808, type: 3}
+  - {fileID: 12800000, guid: 76a48588b8f070b4591554b7ce8c9739, type: 3}
+  - {fileID: 12800000, guid: 4aaa52598b98eda4586791bfe93e50ce, type: 3}
+  - {fileID: 12800000, guid: 8b0cff994c6d3df419ac2e27367866c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
